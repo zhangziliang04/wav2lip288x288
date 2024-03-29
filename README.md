@@ -1,10 +1,10 @@
 
 This is a 288x288 wav2lip model version.
 
-wav2lip + GPT liveroom ：
+Wav2lip288x288 + GPT liveroom ：
 http://live.bilibili.com/26103873
 
-
+wx: zhangzilang04 
 
 <br />
 
