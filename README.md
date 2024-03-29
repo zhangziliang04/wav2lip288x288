@@ -13,4 +13,5 @@ I trained my own model on AVSPEECH dataset and then transfer learning with my pr
 
 demo:
 
-https://github.com/zhangziliang04/wav2lip288x288/blob/master/demo/out_20240306213324.mp4
+https://github.com/zhangziliang04/wav2lip288x288/assets/646709/36250d5b-6c20-4924-ad3d-498d0f508b9b
+
