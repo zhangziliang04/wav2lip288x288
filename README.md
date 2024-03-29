@@ -8,4 +8,9 @@ Some Features I will implement here
 - [ ] Kubeflow for training process
 - [ ] Orthogonal regularization with gradient penalty
 <br />
-I trained my own model on AVSPEECH dataset and then transfer learning with my private dataset. 
+I trained my own model on AVSPEECH dataset and then transfer learning with my private dataset.
+
+
+demo:
+
+https://github.com/zhangziliang04/wav2lip288x288/blob/master/demo/out_20240306213324.mp4
